@@ -1,5 +1,5 @@
 ---
-name: 'Haihao Shi'
+name: 'Zhenyang Huang'
 role: 'Founder'
 bio: 'Works on astrophysics, interpretable machine learning, and data-driven discovery'
 avatar: '/img/hzy.png'
