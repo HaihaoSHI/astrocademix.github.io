@@ -1,9 +1,8 @@
 ---
----
+import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Navigation from '../components/Navigation.astro';
 import MemberCard from '../components/MemberCard.astro';
-import { getCollection } from 'astro:content';
 
 const members = (await getCollection('members')).sort((a, b) => a.data.order - b.data.order);
 const coreMembers = members.filter(member => member.data.featured);
