@@ -1,2 +1,0 @@
-# AstroCademiX Package
-
