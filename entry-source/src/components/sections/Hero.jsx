@@ -20,7 +20,7 @@ const Hero = () => {
       <div className="relative z-10 max-w-7xl w-full flex flex-col lg:flex-row items-center justify-between gap-12 sm:gap-20">
         <div className="flex-1 text-center lg:text-left px-2">
           <div className="inline-block px-4 py-2 mb-4 rounded-full bg-gradient-to-r from-purple-500 to-blue-500 text-sm font-semibold">
-            Astronomy × Astrophysics × Machine Learning
+            Astro × Cademi × X
           </div>
 
           <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold leading-tight">
